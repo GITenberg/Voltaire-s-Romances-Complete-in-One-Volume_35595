@@ -1,0 +1,32 @@
+_repo: Voltaire-s-Romances-Complete-in-One-Volume_35595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2011-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: Voltaire's Romances, Complete in One Volume
+url: http://www.gutenberg.org/ebooks/35595
